@@ -9,7 +9,7 @@
   - [VS Code](https://code.visualstudio.com/download)
   - [Node.js](https://nodejs.org/en/download) 18.x or newer
   - [Slack](https://slack.com/downloads/)
-
+  - Also some other stuff
 ## Tutorial Outline
 
 <table>
