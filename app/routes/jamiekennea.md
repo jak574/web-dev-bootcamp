@@ -1,5 +1,8 @@
-# My List
+# Jamie Kennea
 
-- Things
-- Other stuff
-- Everything else
+## Likes
+
+- Bicycles
+- Running NASA spacecraft
+- Portsmouth FC
+- Reading science fiction

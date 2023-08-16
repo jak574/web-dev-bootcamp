@@ -1,5 +1,5 @@
 @app
-remix-architect-app
+jkennea-remix-architect-app
 
 @http
 /*
@@ -18,3 +18,9 @@ plugin-remix
 runtime nodejs18.x
 region us-east-1
 architecture arm64
+
+@tables
+notes
+  userId *String
+  noteId **String
+  PointInTimeRecovery true

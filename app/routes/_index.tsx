@@ -2,7 +2,7 @@ import type { V2_MetaFunction } from '@remix-run/node'
 
 export const meta: V2_MetaFunction = () => {
   return [
-    { title: 'New Remix App' },
+    { title: "Jamie's New Remix App" },
     { name: 'description', content: 'Welcome to Remix!' },
   ]
 }
@@ -12,6 +12,9 @@ export default function Index() {
     <div>
       <h1>Welcome to the Web Dev Tutorial</h1>
       <ul>
+        <li>
+          <a href="https://www.swift.psu.edu">Swift MOC page @ Penn State</a>
+        </li>
         <li>
           <a
             target="_blank"
